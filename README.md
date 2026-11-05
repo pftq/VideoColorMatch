@@ -10,6 +10,6 @@ You may also find these useful:
 - Video Frame Sync (syncing 2 files that drift out of sync) https://github.com/pftq/Video-Frame-Sync
 - Video Color Match (correcting color grading drift) https://github.com/pftq/VideoColorMatch
 
-This is a tool I built for myself for similar shots or edit passes on the same footage having ever so slight color drift. This has happened with me for Adobe exports that apply an ever so slight tint to MP4s which accumulate on multiple passes. This is also useful for AI video editing that often slightly changes the color (Seedance, etc but also more precise V2V edit models like WAN VACE - see https://github.com/ali-vilab/VACE/issues/44).
+This is a tool I built for myself for similar shots or edit passes on the same footage having ever so slight color drift. This has happened with me for Adobe exports that apply an ever so slight tint to MP4s which accumulate on multiple passes. This is also useful for AI video editing that often slightly changes the color (Seedance, etc but also more precise V2V edit models like WAN VACE - see https://github.com/ali-vilab/VACE/issues/44).  As a bonus, I also included a rudimentary noise/grain match.
 
 <img width="873" height="648" alt="image" src="https://github.com/user-attachments/assets/938a3b70-200d-4506-bb80-4bdbe7108c68" />
