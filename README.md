@@ -17,3 +17,12 @@ This is also useful for AI video editing that often slightly changes the color. 
 Lastly, as a bonus, I also included a rudimentary noise/grain match.
 
 <img width="873" height="648" alt="image" src="https://github.com/user-attachments/assets/938a3b70-200d-4506-bb80-4bdbe7108c68" />
+
+Credits:
+- Python, application runtime
+- Tcl/Tk, user interface
+- NumPy, numerical processing
+- OpenCV, image processing
+- Pillow, image previews
+- PyAV / FFmpeg, video and audio decoding/encoding
+- PyInstaller, Windows executable packaging
