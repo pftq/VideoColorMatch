@@ -8,7 +8,6 @@ You may also find these useful:
 - Video Compare (to check export errors, differences, etc) https://github.com/pftq/Video-Compare
 - MP4 Audio Delay Fix (20ms delay at start of file) https://github.com/pftq/MP4-Audio-Delay-Fix
 - Video Frame Sync (syncing 2 files that drift out of sync) https://github.com/pftq/Video-Frame-Sync
-- Video Color Match (correcting color grading drift) https://github.com/pftq/VideoColorMatch
 
 This is a tool I built for myself for similar shots or edit passes on the same footage having ever so slight color drift. This has happened with me for Adobe exports that apply an ever so slight tint to MP4s which accumulate on multiple passes. 
 
