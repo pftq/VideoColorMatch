@@ -14,7 +14,7 @@ This is a tool I built for myself for similar shots or edit passes on the same f
 
 This is also useful for AI video editing that often slightly changes the color.  For WAN VACE, it also ignores the masked areas/frames, so you can just drag the same input video in used for VACE.  If you are using Seedance, Seedance tends to also cause frames to drift out of sync, so you may want to check out Video-Frame-Sync https://github.com/pftq/Video-Frame-Sync instead (which includes the same color match algo as this repo).
 
-Lastly, as a bonus, I also included a rudimentary noise/grain match.
+Lastly, as a bonus, I also included a rudimentary noise/grain match.  You can also drop a single frame as input to match color/sizing to.
 
 <img width="873" height="648" alt="image" src="https://github.com/user-attachments/assets/938a3b70-200d-4506-bb80-4bdbe7108c68" />
 
