@@ -16,7 +16,9 @@ This is also useful for AI video editing that often slightly changes the color. 
 
 Lastly, as a bonus, I also included a rudimentary noise/grain match.  You can also drop a single frame as input to match color/sizing to.
 
-Update 2026/11/17: This is now functionally the same app as VideoFrameSync but with different defaults catered to color correcting, but if you have VideoFrameSync it already can do everything this app does (and vice versa) https://github.com/pftq/Video-Frame-Sync 
+Update 2026/11/17: 
+- This is now functionally the same app as VideoFrameSync but with different defaults catered to color correcting, but if you have VideoFrameSync it already can do everything this app does (and vice versa) https://github.com/pftq/Video-Frame-Sync
+- I also gave an option to ignore if the reference and edit clips are not close matches for color matching, so this can now be used to match color grading/noise to a completely different scene.
 
 <img width="873" height="648" alt="image" src="https://github.com/user-attachments/assets/938a3b70-200d-4506-bb80-4bdbe7108c68" />
 
