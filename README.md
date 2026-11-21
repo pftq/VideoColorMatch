@@ -8,7 +8,8 @@ You may also find these useful (one-click to download all [here](https://drive.g
 • [MP4 Audio Delay Fix](https://github.com/pftq/MP4-Audio-Delay-Fix) (20ms delay at start of file)\
 • [Video Frame Sync](https://github.com/pftq/Video-Frame-Sync) (syncing 2 files that drift out of sync)\
 • [Video Splicer](https://github.com/pftq/Video-Splicer) (trim or join MP4s without re-encoding)\
-• [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)
+• [Screencaps Generator](https://github.com/pftq/Screencaps-Generator) (smart screencaps selection + gallery grid sheet)\
+• [Video To Selective Color](https://github.com/pftq/Video-To-Selective-Color) (selectively leave things in color on black-and-white video)
 
 This is a tool I built for myself for similar shots or edit passes on the same footage having ever so slight color drift. This has happened with me for Adobe exports that apply an ever so slight tint to MP4s which accumulate on multiple passes. 
 
